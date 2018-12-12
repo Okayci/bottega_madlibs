@@ -1,0 +1,12 @@
+body {
+  background-color: rgbs(207, 207, 207, 0.06);
+}
+
+.card {
+  height: 736px;
+  width: 1240px;
+  -webkit-box-shadow: 0 4px 30px 1 black;
+          box-shadow: 0 4px 30px 1 black;
+  border-radius: 7px;
+}
+/*# sourceMappingURL=main.css.map */
